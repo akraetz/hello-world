@@ -1,4 +1,4 @@
 # hello-world
 Experiment with Github
 
-Maybe this is here
+This File can be used to provide useful information to the client.
